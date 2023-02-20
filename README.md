@@ -7,5 +7,3 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xy-sea)](https://github.com/xy-sea)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xy-sea&repo=xy-sea)
-
