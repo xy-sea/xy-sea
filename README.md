@@ -6,3 +6,6 @@
 #### 社区主页 [掘金 juejin.cn……](https://juejin.cn/user/2594503172831208/posts)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xy-sea)](https://github.com/xy-sea)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xy-sea&repo=xy-sea)
+
